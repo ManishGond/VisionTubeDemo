@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "284176263122",
+    "project_id": "visiontubeapp",
+    "storage_bucket": "visiontubeapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284176263122:android:c891d1d5d8c66c87aa0a0b",
+        "android_client_info": {
+          "package_name": "com.example.visiontube"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284176263122-figug4t07qsmpvcp5hr7sqbidecvqhld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0fPa7J4LydGN5t0VDp_8kamS7PlPTJes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284176263122-figug4t07qsmpvcp5hr7sqbidecvqhld.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
