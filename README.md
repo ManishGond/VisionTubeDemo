@@ -1,3 +1,3 @@
 # visiontube
 
-VisionTube
+VisionTube: a YoutTube Clone made with Flutter and Firebase only.
